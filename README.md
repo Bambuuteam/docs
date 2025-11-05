@@ -1,7 +1,7 @@
-# Bambuu Core
-Core C++/Rust engine for the Bambuu Unified Creative Studio.
+# Bambuu Documentation
+Project specifications, architecture, and contributor guides.
 
 ## Purpose
-- Video/audio processing engine
-- Node-based processing graph
-- Cross-platform media handling
+- Technical documentation
+- Contributor onboarding
+- Project roadmap
